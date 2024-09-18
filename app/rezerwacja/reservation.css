@@ -1,0 +1,36 @@
+
+
+
+
+.booking-button{
+    margin-top: 8px;
+    width: 100%;
+    border-radius: 8px;
+    font-size: 1.2em;
+    background-color: #003580;
+    color: #f2f6fa;
+    border: 0;
+    font-weight: 600;
+    text-align: center;
+}
+
+.booking-button a{
+    color: #f2f6fa;
+    text-decoration: none;
+}
+.booking-button img{
+    padding-bottom: 4px;
+    width: 0.9em;
+    margin-right: 5px;
+}
+
+.contact-category{
+    font-weight: 600;
+    font-size: 2em !important;
+    margin-top: 30px;
+}
+
+.contact-credentials{
+    font-weight: 200;
+    font-size: 2em !important;
+}
